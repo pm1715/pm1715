@@ -1,4 +1,4 @@
-### HEllo World
+### Hello World
 - 🔭 I’m currently working on a **Chat GPT powered assistance application**
 - 🌱 I’m currently learning **Django framework**
 - 👯 I’m looking to collaborate on **Open Source**

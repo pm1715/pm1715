@@ -1,6 +1,6 @@
 ### Hello World
 - 🔭 I’m currently working with **Deloitte US Engineering**
-- 🌱 I’m currently learning **Agentic AI Frameworks such as LangGraph / Google ADK  Also Agentic Evalution **
+- 🌱 I’m currently learning **Agentic AI Frameworks such as LangGraph Google ADK  Also Agentic Evalution **
 - 👯 I’m looking to collaborate on **Open Source**
 - 📫 How to reach me: 
 -                      Instagram - https://www.instagram.com/prayansh.mishra1/

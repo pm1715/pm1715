@@ -1,12 +1,11 @@
 ### Hello World
-- 🔭 I’m currently working on a **Chat GPT powered assistance application**
-- 🌱 I’m currently learning **Django framework**
+- 🔭 I’m currently working with **Deloitte US Engineering**
+- 🌱 I’m currently learning **Agentic AI Frameworks such as LangGraph / Google ADK , Also Agentic Evalution **
 - 👯 I’m looking to collaborate on **Open Source**
 - 📫 How to reach me: 
 -                      Instagram - https://www.instagram.com/prayansh.mishra1/
-- 
                        Linkedin  - https://www.linkedin.com/in/prayansh-mishra-02a57724b/
-- ⚡ Fun fact: **I am Obsessed with Hello World**
+                       Mail - iprayanshmishra15@gmail.com
 
 <!--
 **pm1715/pm1715** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
